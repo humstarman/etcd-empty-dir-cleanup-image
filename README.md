@@ -1,3 +1,3 @@
 <div>
-for kubeflow v0.1.2
+for kubernetes v1.10 
 </div>
